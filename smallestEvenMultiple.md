@@ -1,3 +1,5 @@
+# 最小公倍数
+
 ```js
 /**
  * @param {number} n
